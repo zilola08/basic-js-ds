@@ -19,7 +19,6 @@ class Stack {
   }
 
   push(element) {
-    this.stack.length++;
     this.stack.push(element)
   }
 
